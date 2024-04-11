@@ -14,6 +14,43 @@ h1{
 
 }
 
+.cubataoescudo {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 170px;
+
+}
+
+.mapa {
+
+	width: 240px;
+}
+ 
+# {
+	text-align: center;
+	font-size: 15px;
+	width: 100%;
+	height: 10%;
+		position: absolute ;
+     
+}
+
+.demografia {
+	position: absolute;
+	top: 50%;
+	width: 200px;
+	left: 60% ;
+}
+
+#menu {
+	text-align: center;
+	width: 70%;
+	height: 25%;
+	position: absolute ;
+}
+
+
 
 
 
