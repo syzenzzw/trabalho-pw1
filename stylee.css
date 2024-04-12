@@ -16,18 +16,18 @@ h1{
 
 .cubataoescudo {
 	position: absolute;
-	top: 0;
+	top: 0%;
 	left: 0;
-	width: 170px;
+	width: 215px;
 
 }
 
 .mapa {
 
 	width: 400px;
-	right: 60%;
+	right: 79%;
 	position: absolute;
-	top: 90%;
+	top: 20%;
 	
 }
  
@@ -41,26 +41,37 @@ h1{
 }
 
 .demografia {
-	position: absolute;
-	top: 80%;
-	width: 200px;
-left: 110%;
+		position: absolute;
+	top: 25%;
+left: 80%;
+width: 250px;
+  font-family: Arial 
 }
 
 #menu {
 	text-align: center;
 	width: 70%;
 	height: 25%;
-	position: absolute ;
+	position: absolute;
+	margin-left: 800px;
 }
 
 .demografiaalta {
 		position: absolute;
-	top: 60%;
-left: 100%;
+	top: 20%;
+left: 80%;
 width: 500px;
 font-weight: bold;
 }
+
+.historia {
+			position: absolute;
+	top: 50%;
+left: 80%;
+width: 500px;
+font-weight: bold;
+}
+
 
 
 
