@@ -16,27 +16,24 @@ h1{
 
 .cubataoescudo {
 	position: absolute;
-	top: 0%;
+	top: -1%;
 	left: 0;
-	width: 215px;
+	width: 210px;
 
 }
 
-.mapa {
+#mapa {
 
 	width: 400px;
-	right: 79%;
+	left: 1%;
 	position: absolute;
 	top: 20%;
 	
 }
  
-# {
+.linkmenu {
 	text-align: center;
-	font-size: 15px;
-	width: 100%;
-	height: 10%;
-		position: absolute ;
+	width: 20%;
      
 }
 
